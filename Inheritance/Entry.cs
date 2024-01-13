@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Inheritance;
+using System;
 
 namespace CShrapProject
 {
@@ -6,7 +7,7 @@ namespace CShrapProject
     {
         static void Main(string[] args)
         {
-            Program.animal();
+            Encap.Enacaps();
         }
     }
 }

@@ -112,6 +112,5 @@ class Program
         myClass.Method1();
         myClass.Method2();
 
-        Console.ReadLine();
     }
 }
