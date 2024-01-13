@@ -6,7 +6,7 @@ namespace CShrapProject
     {
         static void Main(string[] args)
         {
-            ParaConstructor.Para();
+            CopyConstructor.Copy();
 
         }
     }
