@@ -7,7 +7,7 @@ namespace CShrapProject
     {
         static void Main(string[] args)
         {
-            Encap.Enacaps();
+            Solutions.solution();
         }
     }
 }
