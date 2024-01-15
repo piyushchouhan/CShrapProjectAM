@@ -10,7 +10,13 @@ namespace Arrays
     {
         public static void demo()
         {
-            int[,] intArray = new int[,] { { 1, 2 }, { 2, 3 }, { 3, 4 }, { 4, 5 }, };
+            int[,] intArray = new int[,] {
+                { 1, 2 },
+                { 2, 3 },
+                { 3, 4 }, 
+                { 4, 5 },
+            };
+
             for(int i = 0; i < intArray.GetLength(0); i++)
             {
                 for(int j = 0;  j < intArray.GetLength(1); j++)
