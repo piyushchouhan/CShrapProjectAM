@@ -10,7 +10,7 @@ namespace Arrays
     {
         public static void Main()
         {
-            Jagged.jagged();
+            jagged0.Jaggd();
         }
     }
 }

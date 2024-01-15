@@ -10,9 +10,7 @@ namespace Arrays
     {
         public static void demo()
         {
-            int[] intArray;
-
-            intArray = new int[5];
+            int[] intArray = new int[5];
 
             intArray[0] = 1;
             intArray[1] = 2;
