@@ -10,7 +10,7 @@ namespace Arrays
     {
         public static void Main()
         {
-            Topic.topics();
+            Topic0.topic();
         }
     }
 }
