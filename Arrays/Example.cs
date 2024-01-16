@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Arrays
 {
-    internal class ArrayEntry
+    internal class Example
     {
-        public static void Main()
-        {
-            Topic2.topic();
-        }
     }
 }
